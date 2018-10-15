@@ -1,0 +1,34 @@
+.card-img-top {
+    width: auto;
+    max-height: 300px;
+    margin: 0 auto;
+    padding: 10px;
+}
+
+.update-art-prev-img img {
+    /*box-sizing: border-box;*/
+    max-height: 75px;
+    width: auto;
+    padding-bottom: 20px;
+}
+
+.text-justify {
+    text-align: justify;
+}
+
+/*Listing articles table fix column width */
+.articles tbody td {
+    width: 12%;
+}
+
+.articles tbody td:first-child {
+    width: 28%;
+}
+
+/* Pagination fix link width */
+.pagination a {
+    min-width: 16px;
+    max-width: 30px;
+    padding: 2px;
+}
+
