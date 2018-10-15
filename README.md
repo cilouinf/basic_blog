@@ -1,2 +1,2 @@
-# basic_blog
-A Very Basic PHP Blog Project
+# Basic Blog
+A Very Basic PHP Blog Project -- WebDev 1st year
